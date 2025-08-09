@@ -90,7 +90,7 @@
 
 ## 📊 GitHub Activity
 
-![Venkat's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sivakeerthi@1211&theme=react-dark)
+![Venkat's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sivakeerthi-1211&theme=react-dark)
 
 ---
 
